@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/array-example/array-example.iml" filepath="$PROJECT_DIR$/array-example/array-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array-list-example/array-list-example.iml" filepath="$PROJECT_DIR$/array-list-example/array-list-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections-sort-vs-arrays-sort/collections-sort-vs-arrays-sort.iml" filepath="$PROJECT_DIR$/collections-sort-vs-arrays-sort/collections-sort-vs-arrays-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-collection-concepts-practice.iml" filepath="$PROJECT_DIR$/java-collection-concepts-practice.iml" />
+    </modules>
+  </component>
+</project>
