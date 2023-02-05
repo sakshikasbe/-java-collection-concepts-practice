@@ -5,7 +5,15 @@
       <module fileurl="file://$PROJECT_DIR$/array-example/array-example.iml" filepath="$PROJECT_DIR$/array-example/array-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-list-example/array-list-example.iml" filepath="$PROJECT_DIR$/array-list-example/array-list-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-sort-vs-arrays-sort/collections-sort-vs-arrays-sort.iml" filepath="$PROJECT_DIR$/collections-sort-vs-arrays-sort/collections-sort-vs-arrays-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparable-example/comparable-example.iml" filepath="$PROJECT_DIR$/comparable-example/comparable-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparator-example/comparator-example.iml" filepath="$PROJECT_DIR$/comparator-example/comparator-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrent-modification-exception-example/concurrent-modification-exception-example.iml" filepath="$PROJECT_DIR$/concurrent-modification-exception-example/concurrent-modification-exception-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashmap-example/hashmap-example.iml" filepath="$PROJECT_DIR$/hashmap-example/hashmap-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashset-example/hashset-example.iml" filepath="$PROJECT_DIR$/hashset-example/hashset-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-collection-concepts-practice.iml" filepath="$PROJECT_DIR$/java-collection-concepts-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knowledge-check/knowledge-check.iml" filepath="$PROJECT_DIR$/knowledge-check/knowledge-check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linked-hash-map/linked-hash-map.iml" filepath="$PROJECT_DIR$/linked-hash-map/linked-hash-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linked-list-example/linked-list-example.iml" filepath="$PROJECT_DIR$/linked-list-example/linked-list-example.iml" />
     </modules>
   </component>
 </project>
