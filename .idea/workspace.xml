@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de5c72c1-595d-41a7-bced-d1b4c51c8b83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/comparable-example/comparable-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comparable-example/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comparator-example/comparator-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comparator-example/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent-modification-exception-example/concurrent-modification-exception-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent-modification-exception-example/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashmap-example/hashmap-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashmap-example/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashset-example/hashset-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashset-example/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knowledge-check/knowledge-check.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knowledge-check/src/KnowledgeCheckHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked-list-example/linked-list-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedhashset-example/linkedhashset-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedhashset-example/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue-example/queue-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue-example/src/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue-example/src/QueueJavaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack-example/src/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack-example/src/StackJavaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack-example/stack-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree-map/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -71,11 +69,19 @@
       <option name="project" value="LOCAL" />
       <updated>1675488482414</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updaated all modules">
+      <created>1675614081478</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675614081478</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated array arraylist collections-sort-vs-arryys" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated array arraylist collections-sort-vs-arryys" />
+    <MESSAGE value="updaated all modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="updaated all modules" />
   </component>
 </project>

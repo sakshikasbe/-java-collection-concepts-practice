@@ -14,6 +14,13 @@
       <module fileurl="file://$PROJECT_DIR$/knowledge-check/knowledge-check.iml" filepath="$PROJECT_DIR$/knowledge-check/knowledge-check.iml" />
       <module fileurl="file://$PROJECT_DIR$/linked-hash-map/linked-hash-map.iml" filepath="$PROJECT_DIR$/linked-hash-map/linked-hash-map.iml" />
       <module fileurl="file://$PROJECT_DIR$/linked-list-example/linked-list-example.iml" filepath="$PROJECT_DIR$/linked-list-example/linked-list-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedhashset-example/linkedhashset-example.iml" filepath="$PROJECT_DIR$/linkedhashset-example/linkedhashset-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue-example/queue-example.iml" filepath="$PROJECT_DIR$/queue-example/queue-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack-example/stack-example.iml" filepath="$PROJECT_DIR$/stack-example/stack-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tree-map/tree-map.iml" filepath="$PROJECT_DIR$/tree-map/tree-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/treeset-example/treeset-example.iml" filepath="$PROJECT_DIR$/treeset-example/treeset-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/var-args-example/var-args-example.iml" filepath="$PROJECT_DIR$/var-args-example/var-args-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vector-example/vector-example.iml" filepath="$PROJECT_DIR$/vector-example/vector-example.iml" />
     </modules>
   </component>
 </project>
